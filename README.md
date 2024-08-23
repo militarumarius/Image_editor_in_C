@@ -1,6 +1,6 @@
 ### Copyright Militaru-Ionut-Marius 
 
-##Editor Foto 
+## Editor Foto 
     - Programul dat efectueaza diferite operatii cu imagini incarcate dintr-un 
 fisier in functie de comanda citita.Citirea se face fie din fisiere binare fie
 din fisiere ascii.
