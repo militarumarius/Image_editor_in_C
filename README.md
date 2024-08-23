@@ -1,14 +1,15 @@
 ### Copyright Militaru-Ionut-Marius 
 
-## Editor Foto 
-    - Programul dat efectueaza diferite operatii cu imagini incarcate dintr-un 
+### Editor Foto
+
+## Programul dat efectueaza diferite operatii cu imagini incarcate dintr-un 
 fisier in functie de comanda citita.Citirea se face fie din fisiere binare fie
 din fisiere ascii.
-    - Pentru fiecare comanda  se apeleaza functia corespunzatoare .In caz ca
+##Pentru fiecare comanda  se apeleaza functia corespunzatoare .In caz ca
 comanda nu este recunoscuta se afiseaza mesajul : "Invalid command".Iar daca 
 nu a fost incarcata nici o poza se afiseaza mesajul : "No image loaded", 
 lucru verificat prin load din structura imagine.
-    #Citirea comenzii o efectuez astfel:
+##Citirea comenzii o efectuez astfel:
       -initial citesc primul cuvant si il compar cu cele din comenzile acceptate
       -dupa citesc restul liniei cu o strcutura cuvant_p in care retin propozitia
 citita si cuvintele obtinute.
